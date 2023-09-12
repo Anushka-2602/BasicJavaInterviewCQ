@@ -1,0 +1,17 @@
+#ArrayVsLinkedList
+Arrays contain elements with similar data type.
+Linkedlist contains group of objects called nodes with two fields: data and address
+
+In arrays, memory allocation is at compile time.
+In Linkedlist, memmory allocation is at runtime.
+
+An array stores elements in a contiguous memory location.
+Linkedlist stores elements randomly at any memory address.
+
+In arrays, memory size is fixed at declaration; it cannot be altered at runtime.
+In linkedlist, memory size is dynamic i.e. it can be altered at runtime.
+
+In arrays, elemts are not dependent on each other.
+Im linkedlist, elements are dependent on each other as every node stores the address of the next.
+
+
